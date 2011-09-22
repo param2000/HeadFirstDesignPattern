@@ -29,6 +29,7 @@ Partial Class Main
         Me.lblSelectedDuck = New System.Windows.Forms.Label()
         Me.ChangeToComposition = New System.Windows.Forms.Button()
         Me.ChangeToInheritance = New System.Windows.Forms.Button()
+        Me.RichTextBox1 = New System.Windows.Forms.RichTextBox()
         Me.SuspendLayout()
         '
         'Quack
@@ -93,11 +94,21 @@ Partial Class Main
         Me.ChangeToInheritance.Text = "ChangeToInheritance"
         Me.ChangeToInheritance.UseVisualStyleBackColor = True
         '
+        'RichTextBox1
+        '
+        Me.RichTextBox1.Location = New System.Drawing.Point(88, 165)
+        Me.RichTextBox1.Name = "RichTextBox1"
+        Me.RichTextBox1.Size = New System.Drawing.Size(411, 158)
+        Me.RichTextBox1.TabIndex = 8
+        Me.RichTextBox1.Text = "The Idea " & Global.Microsoft.VisualBasic.ChrW(10) & "MallardDuck can Do anything " & Global.Microsoft.VisualBasic.ChrW(10) & "RubberDuck Can Only Swim, " & Global.Microsoft.VisualBasic.ChrW(10) & "CanadianDuck Ca" & _
+            "nt Fly" & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(10) & "SuperDuck Can Do Anything"
+        '
         'Main
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(536, 335)
+        Me.Controls.Add(Me.RichTextBox1)
         Me.Controls.Add(Me.ChangeToInheritance)
         Me.Controls.Add(Me.ChangeToComposition)
         Me.Controls.Add(Me.lblSelectedDuck)
@@ -118,5 +129,6 @@ Partial Class Main
     Friend WithEvents lblSelectedDuck As System.Windows.Forms.Label
     Friend WithEvents ChangeToComposition As System.Windows.Forms.Button
     Friend WithEvents ChangeToInheritance As System.Windows.Forms.Button
+    Friend WithEvents RichTextBox1 As System.Windows.Forms.RichTextBox
 
 End Class

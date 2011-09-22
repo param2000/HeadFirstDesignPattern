@@ -4,8 +4,9 @@
 
         Public Sub New()
             _ducks = New List(Of DuckValuePairs)()
-            _ducks.Add(New DuckValuePairs("Mallard Duck", GetType(SuperDuck)))
+            _ducks.Add(New DuckValuePairs("Super Duck", GetType(MallardDuck)))
             _ducks.Add(New DuckValuePairs("Rubber Duck", GetType(RubberDuck)))
+            _ducks.Add(New DuckValuePairs("Canadian Duck", GetType(CanadianDuck)))
         End Sub
 
         Public ReadOnly Property Ducks() As IList(Of DuckValuePairs)

@@ -2,6 +2,7 @@
 Imports HeadFirstPatternsCore.InheritanceNightmare
 Imports Castle.Windsor
 Imports Castle.MicroKernel.Registration
+Imports System.Reflection
 
 Public Class Main
     Private _container As IWindsorContainer
@@ -10,12 +11,16 @@ Public Class Main
         If (Not IsNothing(lstDuckCollection.SelectedValue)) Then
             Dim duckType = lstDuckCollection.SelectedValue
             Dim Duck = _container.Resolve(lstDuckCollection.SelectedValue)
-            lblSelectedDuck.Text = lstDuckCollection.SelectedValue.ToString()
-            If (HasMethod(Duck, "Quack")) Then
-                Duck.Quack()
-            Else
-                MsgBox("I cant Quack")
-            End If
+            PerformBehavior(Duck, "Quack")
+        End If
+    End Sub
+
+    Private Sub PerformBehavior(ByVal _duck As Object, ByVal behavior As String)
+        If (HasMethod(_duck, behavior)) Then
+            Dim type = _duck.GetType()
+            Dim s = CType(type.InvokeMember(behavior, BindingFlags.InvokeMethod Or BindingFlags.Public Or BindingFlags.Instance Or BindingFlags.ExactBinding, Nothing, _duck, Nothing), [String])
+        Else
+            MsgBox("I cant " + behavior)
         End If
     End Sub
 
@@ -31,8 +36,14 @@ Public Class Main
         _container.Register(Component.For(Of ICanFly).ImplementedBy(Of CanFly)())
         _container.Register(Component.For(Of ICanSwim).ImplementedBy(Of CanSwim)())
         _container.Register(Component.For(Of ICanQuack).ImplementedBy(Of CanQuack)())
-        _container.Register((Component.For(Of SuperDuck).ImplementedBy(Of SuperDuck)()))
+
+        _container.Register((Component.For(Of HeadFirstPatternsCore.CompositionRocks.MallardDuck).ImplementedBy(Of HeadFirstPatternsCore.CompositionRocks.MallardDuck)()))
         _container.Register((Component.For(Of HeadFirstPatternsCore.CompositionRocks.RubberDuck).ImplementedBy(Of HeadFirstPatternsCore.CompositionRocks.RubberDuck)()))
+        _container.Register((Component.For(Of HeadFirstPatternsCore.CompositionRocks.CanadianDuck).ImplementedBy(Of HeadFirstPatternsCore.CompositionRocks.CanadianDuck)()))
+
+        _container.Register((Component.For(Of HeadFirstPatternsCore.InheritanceNightmare.MallardDuck).ImplementedBy(Of HeadFirstPatternsCore.InheritanceNightmare.MallardDuck)()))
+        _container.Register((Component.For(Of HeadFirstPatternsCore.InheritanceNightmare.RubberDuck).ImplementedBy(Of HeadFirstPatternsCore.InheritanceNightmare.RubberDuck)()))
+        _container.Register((Component.For(Of HeadFirstPatternsCore.InheritanceNightmare.CanadianDuck).ImplementedBy(Of HeadFirstPatternsCore.InheritanceNightmare.CanadianDuck)()))
 
     End Sub
 
@@ -46,14 +57,9 @@ Public Class Main
         If (Not IsNothing(lstDuckCollection.SelectedValue)) Then
             Dim duckType = lstDuckCollection.SelectedValue
             Dim Duck = _container.Resolve(lstDuckCollection.SelectedValue)
-            lblSelectedDuck.Text = lstDuckCollection.SelectedValue.ToString()
-
+            
             'NOTE Check if the Class implements that method
-            If (HasMethod(Duck, "Fly")) Then
-                Duck.Fly()
-            Else
-                MsgBox("I cant Fly")
-            End If
+            PerformBehavior(Duck, "Fly")
         End If
     End Sub
 
@@ -61,12 +67,7 @@ Public Class Main
         If (Not IsNothing(lstDuckCollection.SelectedValue)) Then
             Dim duckType = lstDuckCollection.SelectedValue
             Dim Duck = _container.Resolve(lstDuckCollection.SelectedValue)
-            lblSelectedDuck.Text = lstDuckCollection.SelectedValue.ToString()
-            If (HasMethod(Duck, "Swim")) Then
-                Duck.Swim()
-            Else
-                MsgBox("I cant Swim")
-            End If
+            PerformBehavior(Duck, "Swim")
         End If
     End Sub
 
@@ -89,4 +90,13 @@ Public Class Main
         lstDuckCollection.DisplayMember = "Name"
         lstDuckCollection.ValueMember = "Value"
     End Sub
+
+    Private Sub lstDuckCollection_SelectedIndexChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lstDuckCollection.SelectedIndexChanged
+        If (Not IsNothing(lstDuckCollection.SelectedValue)) Then
+            lblSelectedDuck.Text = lstDuckCollection.SelectedValue.ToString()
+        End If
+    End Sub
+
+  
+    
 End Class

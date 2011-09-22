@@ -7,6 +7,7 @@ Namespace CompositionRocks
             _canSwim = canSwim
             _canQuack = canQuack
         End Sub
+
         Public Sub Quack()
             _canQuack.Quack()
         End Sub

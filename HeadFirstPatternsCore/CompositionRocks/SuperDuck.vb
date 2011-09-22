@@ -1,5 +1,5 @@
 Namespace CompositionRocks
-    Public Class SuperDuck
+    Public Class MallardDuck
         Private _canfly As ICanFly
         Private _canSwim As ICanSwim
         Private _canquack As ICanQuack
@@ -17,7 +17,7 @@ Namespace CompositionRocks
             Get
                 Return _canfly
             End Get
-            Set (ByVal value As ICanFly)
+            Set(ByVal value As ICanFly)
                 _canfly = value
             End Set
         End Property
@@ -40,7 +40,7 @@ Namespace CompositionRocks
 
         'Note Behaviors
         Public Sub Quack()
-            _canQuack.Quack()
+            _canquack.Quack()
         End Sub
         Public Sub Swim()
             _canSwim.Swim()
