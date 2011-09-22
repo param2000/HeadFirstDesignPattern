@@ -1,0 +1,33 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FDAAB145-119C-451A-B798-DDC73289ACC6/f:CheckUserPermissions.vb" caret="35" fromTop="1" />
+      <File id="26656836-0B18-43CA-84C6-93C97C9F8C1B/f:RhinoMocksAtPlay.vb" caret="606" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FDAAB145-119C-451A-B798-DDC73289ACC6/f:CheckUserPermissions.vb" caret="207" fromTop="2" />
+      <File id="26656836-0B18-43CA-84C6-93C97C9F8C1B/f:RhinoMocksAtPlay.vb" caret="341" fromTop="13" />
+      <File id="26656836-0B18-43CA-84C6-93C97C9F8C1B/f:RhinoMocksAtPlay.vb" caret="35" fromTop="1" />
+      <File id="26656836-0B18-43CA-84C6-93C97C9F8C1B/f:RhinoMocksAtPlay.vb" caret="102" fromTop="4" />
+      <File id="26656836-0B18-43CA-84C6-93C97C9F8C1B/f:RhinoMocksAtPlay.vb" caret="606" fromTop="20" />
+      <File id="FDAAB145-119C-451A-B798-DDC73289ACC6/f:CheckUserPermissions.vb" caret="37" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

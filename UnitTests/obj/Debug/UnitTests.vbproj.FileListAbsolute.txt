@@ -1,0 +1,12 @@
+C:\Projects\HeadFirstDesignPattern\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\HeadFirstDesignPattern\UnitTests\obj\Debug\RhinoMocksTester.dll
+C:\Projects\HeadFirstDesignPattern\UnitTests\obj\Debug\RhinoMocksTester.xml
+C:\Projects\HeadFirstDesignPattern\UnitTests\obj\Debug\RhinoMocksTester.pdb
+C:\Projects\HeadFirstDesignPattern\UnitTests\bin\Debug\RhinoMocksTester.dll
+C:\Projects\HeadFirstDesignPattern\UnitTests\bin\Debug\RhinoMocksTester.pdb
+C:\Projects\HeadFirstDesignPattern\UnitTests\bin\Debug\RhinoMocksTester.xml
+C:\Projects\HeadFirstDesignPattern\UnitTests\bin\Debug\HeadFirstPatternsCore.dll
+C:\Projects\HeadFirstDesignPattern\UnitTests\bin\Debug\HeadFirstPatternsCore.pdb
+C:\Projects\HeadFirstDesignPattern\UnitTests\bin\Debug\HeadFirstPatternsCore.xml
+C:\Projects\HeadFirstDesignPattern\UnitTests\bin\Debug\Rhino.Mocks.xml
+C:\Projects\HeadFirstDesignPattern\UnitTests\bin\Debug\Rhino.Mocks.dll
