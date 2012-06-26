@@ -1,0 +1,9 @@
+C:\Projects\RhinoMocksAtPlay\RhinoMocksTester\bin\Debug\RhinoMocksTester.dll
+C:\Projects\RhinoMocksAtPlay\RhinoMocksTester\bin\Debug\RhinoMocksTester.pdb
+C:\Projects\RhinoMocksAtPlay\RhinoMocksTester\bin\Debug\RhinoMocksTester.xml
+C:\Projects\RhinoMocksAtPlay\RhinoMocksTester\bin\Debug\Rhino.Mocks.dll
+C:\Projects\RhinoMocksAtPlay\RhinoMocksTester\bin\Debug\Rhino.Mocks.xml
+C:\Projects\RhinoMocksAtPlay\RhinoMocksTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\RhinoMocksAtPlay\RhinoMocksTester\obj\Debug\RhinoMocksTester.dll
+C:\Projects\RhinoMocksAtPlay\RhinoMocksTester\obj\Debug\RhinoMocksTester.xml
+C:\Projects\RhinoMocksAtPlay\RhinoMocksTester\obj\Debug\RhinoMocksTester.pdb
