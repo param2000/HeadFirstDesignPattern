@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Sandbox/!svn/ver/551/raloowallp/Branches/DesignPatterns/PatternsCore/Iterator
+END
+PancakeHouseMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Sandbox/!svn/ver/531/raloowallp/Branches/DesignPatterns/PatternsCore/Iterator/PancakeHouseMenu.cs
+END
+DinerMenuIterator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Sandbox/!svn/ver/535/raloowallp/Branches/DesignPatterns/PatternsCore/Iterator/DinerMenuIterator.cs
+END
+BreakfastMenuIterator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Sandbox/!svn/ver/535/raloowallp/Branches/DesignPatterns/PatternsCore/Iterator/BreakfastMenuIterator.cs
+END
+NewWaitressWithIterator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Sandbox/!svn/ver/531/raloowallp/Branches/DesignPatterns/PatternsCore/Iterator/NewWaitressWithIterator.cs
+END
+IIterator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Sandbox/!svn/ver/551/raloowallp/Branches/DesignPatterns/PatternsCore/Iterator/IIterator.cs
+END
+MenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Sandbox/!svn/ver/531/raloowallp/Branches/DesignPatterns/PatternsCore/Iterator/MenuItem.cs
+END
+DinerMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Sandbox/!svn/ver/531/raloowallp/Branches/DesignPatterns/PatternsCore/Iterator/DinerMenu.cs
+END

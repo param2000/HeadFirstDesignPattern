@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Sandbox/!svn/ver/568/raloowallp/Branches/DesignPatterns/PatternsCore/State
+END
+IGumballState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Sandbox/!svn/ver/563/raloowallp/Branches/DesignPatterns/PatternsCore/State/IGumballState.cs
+END
+HasQuarterState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Sandbox/!svn/ver/568/raloowallp/Branches/DesignPatterns/PatternsCore/State/HasQuarterState.cs
+END
+NoQuarterState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Sandbox/!svn/ver/568/raloowallp/Branches/DesignPatterns/PatternsCore/State/NoQuarterState.cs
+END
+SoldState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Sandbox/!svn/ver/568/raloowallp/Branches/DesignPatterns/PatternsCore/State/SoldState.cs
+END
+IGumballMachine2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Sandbox/!svn/ver/563/raloowallp/Branches/DesignPatterns/PatternsCore/State/IGumballMachine2.cs
+END
+WinnerState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Sandbox/!svn/ver/568/raloowallp/Branches/DesignPatterns/PatternsCore/State/WinnerState.cs
+END
+GumballMachine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Sandbox/!svn/ver/560/raloowallp/Branches/DesignPatterns/PatternsCore/State/GumballMachine.cs
+END
+GumballMachine2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Sandbox/!svn/ver/563/raloowallp/Branches/DesignPatterns/PatternsCore/State/GumballMachine2.cs
+END
+SoldOutState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Sandbox/!svn/ver/568/raloowallp/Branches/DesignPatterns/PatternsCore/State/SoldOutState.cs
+END

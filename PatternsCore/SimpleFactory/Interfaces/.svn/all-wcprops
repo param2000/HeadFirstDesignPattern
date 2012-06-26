@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/SimpleFactory/Interfaces
+END
+IFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/SimpleFactory/Interfaces/IFactory.cs
+END
+IPizzaStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/SimpleFactory/Interfaces/IPizzaStore.cs
+END
+IPizza.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/SimpleFactory/Interfaces/IPizza.cs
+END

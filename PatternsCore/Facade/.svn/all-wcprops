@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/Facade
+END
+Screen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/Facade/Screen.cs
+END
+IMovieFunctions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/Facade/IMovieFunctions.cs
+END
+AmplifierAmp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/Facade/AmplifierAmp.cs
+END
+Projector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/Facade/Projector.cs
+END
+TheaterLights.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/Facade/TheaterLights.cs
+END
+HomeTheaterFacade.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/Facade/HomeTheaterFacade.cs
+END
+DvdPlayer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/Facade/DvdPlayer.cs
+END

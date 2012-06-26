@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/SimpleFactory/Implementations
+END
+PepperoniPizza.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/SimpleFactory/Implementations/PepperoniPizza.cs
+END
+PizzaType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/SimpleFactory/Implementations/PizzaType.cs
+END
+SimplePizzaFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/SimpleFactory/Implementations/SimplePizzaFactory.cs
+END
+GreeekPizza.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/SimpleFactory/Implementations/GreeekPizza.cs
+END
+VeggiePizza.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/SimpleFactory/Implementations/VeggiePizza.cs
+END
+PizzaStore.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/SimpleFactory/Implementations/PizzaStore.cs
+END

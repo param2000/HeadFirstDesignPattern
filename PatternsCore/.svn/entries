@@ -1,0 +1,98 @@
+10
+
+dir
+582
+http://srvutilscm/svn/Sandbox/raloowallp/Branches/DesignPatterns/PatternsCore
+http://srvutilscm/svn/Sandbox
+
+
+
+2012-04-04T17:40:30.743849Z
+575
+raloowallp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7c6c4794-05a3-094e-92fb-06747d65d427
+
+Adapter
+dir
+
+State
+dir
+
+Proxy
+dir
+
+SimpleFactory
+dir
+
+Composite
+dir
+
+Singleton
+dir
+
+Strategy
+dir
+
+Facade
+dir
+
+FrameWorkStyleFactory
+dir
+
+PatternsCore.csproj
+file
+
+
+
+
+2012-04-06T16:35:36.000000Z
+104526c0aa09467fc1d00b2ec5ab701f
+2012-04-02T17:13:27.855254Z
+572
+raloowallp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7770
+
+Iterator
+dir
+
+Properties
+dir
+
+WithoutIterator
+dir
+

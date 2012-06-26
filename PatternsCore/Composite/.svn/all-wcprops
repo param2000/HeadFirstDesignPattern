@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Sandbox/!svn/ver/535/raloowallp/Branches/DesignPatterns/PatternsCore/Composite
+END
+MenuComponentIterator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Sandbox/!svn/ver/535/raloowallp/Branches/DesignPatterns/PatternsCore/Composite/MenuComponentIterator.cs
+END
+MenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Sandbox/!svn/ver/535/raloowallp/Branches/DesignPatterns/PatternsCore/Composite/MenuItem.cs
+END
+CompositeWaitress.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Sandbox/!svn/ver/535/raloowallp/Branches/DesignPatterns/PatternsCore/Composite/CompositeWaitress.cs
+END
+Menu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Sandbox/!svn/ver/535/raloowallp/Branches/DesignPatterns/PatternsCore/Composite/Menu.cs
+END
+MenuComponent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Sandbox/!svn/ver/535/raloowallp/Branches/DesignPatterns/PatternsCore/Composite/MenuComponent.cs
+END
+UnSupportedOperationException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Sandbox/!svn/ver/535/raloowallp/Branches/DesignPatterns/PatternsCore/Composite/UnSupportedOperationException.cs
+END

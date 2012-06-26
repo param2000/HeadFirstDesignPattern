@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Sandbox/!svn/ver/575/raloowallp/Branches/DesignPatterns/PatternsCore/Proxy
+END
+ProxySubject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Sandbox/!svn/ver/573/raloowallp/Branches/DesignPatterns/PatternsCore/Proxy/ProxySubject.cs
+END
+RealSubject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Sandbox/!svn/ver/572/raloowallp/Branches/DesignPatterns/PatternsCore/Proxy/RealSubject.cs
+END
+ISubject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Sandbox/!svn/ver/572/raloowallp/Branches/DesignPatterns/PatternsCore/Proxy/ISubject.cs
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory
+END
+NyVeggiePizza2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/NyVeggiePizza2.cs
+END
+ChicagoPepperoniPizza2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/ChicagoPepperoniPizza2.cs
+END
+IDough.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/IDough.cs
+END
+Pizza2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/Pizza2.cs
+END
+ChicagoPizzaIngreadientsFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/ChicagoPizzaIngreadientsFactory.cs
+END
+NyPizzaStore2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/NyPizzaStore2.cs
+END
+ICheese.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/ICheese.cs
+END
+ChicagoVeggiePiza.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/ChicagoVeggiePiza.cs
+END
+NyPepperoniPizza2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/NyPepperoniPizza2.cs
+END
+ISauce.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/ISauce.cs
+END
+ITopping.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/ITopping.cs
+END
+NyPizzaIngreadientsFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/NyPizzaIngreadientsFactory.cs
+END
+ChicagoPizzaStore2.cs
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/ChicagoPizzaStore2.cs
+END
+IPizzaIngredientsFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/Sandbox/!svn/ver/523/raloowallp/Branches/DesignPatterns/PatternsCore/FrameWorkStyleFactory/AbstractFactory/IPizzaIngredientsFactory.cs
+END

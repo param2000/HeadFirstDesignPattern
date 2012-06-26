@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Sandbox/!svn/ver/567/raloowallp/Branches/DesignPatterns/PatternsCore/Strategy
+END
+CanFly.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Sandbox/!svn/ver/567/raloowallp/Branches/DesignPatterns/PatternsCore/Strategy/CanFly.cs
+END
+CantFly.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Sandbox/!svn/ver/567/raloowallp/Branches/DesignPatterns/PatternsCore/Strategy/CantFly.cs
+END
+IFly.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Sandbox/!svn/ver/567/raloowallp/Branches/DesignPatterns/PatternsCore/Strategy/IFly.cs
+END
+Duck.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Sandbox/!svn/ver/567/raloowallp/Branches/DesignPatterns/PatternsCore/Strategy/Duck.cs
+END
