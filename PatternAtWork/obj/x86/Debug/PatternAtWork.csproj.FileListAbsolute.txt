@@ -1,0 +1,7 @@
+C:\GithubRepositories\DesignPatterns\PatternAtWork\bin\Debug\PatternAtWork.exe
+C:\GithubRepositories\DesignPatterns\PatternAtWork\bin\Debug\PatternAtWork.pdb
+C:\GithubRepositories\DesignPatterns\PatternAtWork\bin\Debug\PatternsCore.dll
+C:\GithubRepositories\DesignPatterns\PatternAtWork\bin\Debug\PatternsCore.pdb
+C:\GithubRepositories\DesignPatterns\PatternAtWork\obj\x86\Debug\PatternAtWork.csprojResolveAssemblyReference.cache
+C:\GithubRepositories\DesignPatterns\PatternAtWork\obj\x86\Debug\PatternAtWork.exe
+C:\GithubRepositories\DesignPatterns\PatternAtWork\obj\x86\Debug\PatternAtWork.pdb

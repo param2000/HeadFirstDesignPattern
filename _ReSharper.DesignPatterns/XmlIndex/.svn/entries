@@ -1,652 +1,0 @@
-10
-
-dir
-582
-http://srvutilscm/svn/Sandbox/raloowallp/Branches/DesignPatterns/_ReSharper.DesignPatterns/XmlIndex
-http://srvutilscm/svn/Sandbox
-
-
-
-2011-12-23T17:34:37.734963Z
-523
-RaloowallP
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7c6c4794-05a3-094e-92fb-06747d65d427
-
-System.Xml.2.0.5.0.Nullness.Generated.xml
-dir
-
-System.Runtime.Serialization.xml
-dir
-
-System.Drawing.2.0.0.0.Pure.xml
-dir
-
-System.Security.2.0.0.0.Contracts.xml
-dir
-
-System.Core.3.5.0.0.Pure.xml
-dir
-
-System.Security.4.0.0.0.Contracts.xml
-dir
-
-mscorlib.2.0.0.0.Interfaces.Nullness.Generated.xml
-dir
-
-Accessibility.xml
-dir
-
-mscorlib.4.0.0.0.Interfaces.Nullness.Generated.xml
-dir
-
-System.Management.2.0.0.0.Nullness.Generated.xml
-dir
-
-mscorlib.Nullness.Manual.xml
-dir
-
-System.DirectoryServices.xml
-dir
-
-Microsoft.VisualBasic.10.0.0.0.Pure.xml
-dir
-
-System.2.0.5.0.Pure.xml
-dir
-
-System.Security.4.0.0.0.Pure.xml
-dir
-
-System.Runtime.Serialization.Formatters.Soap.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Windows.Forms.xml
-dir
-
-System.Core.LinqTunnel.xml
-dir
-
-System.Web.2.0.0.0.Pure.xml
-dir
-
-System.Drawing.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Core.3.5.0.0.Contracts.xml
-dir
-
-System.Core.3.5.0.0.Nullness.Generated.xml
-dir
-
-mscorlib.xml
-dir
-
-System.ServiceProcess.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Web.Services.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Xml.2.0.0.0.Contracts.xml
-dir
-
-System.2.0.0.0.Contracts.xml
-dir
-
-System.Drawing.xml
-dir
-
-System.Xml.4.0.0.0.Contracts.xml
-dir
-
-System.4.0.0.0.Contracts.xml
-dir
-
-System.Xml.Linq.4.0.0.0.Nullness.Generated.xml
-dir
-
-Microsoft.JScript.8.0.0.0.Nullness.Generated.xml
-dir
-
-System.Xml.2.0.5.0.Contracts.xml
-dir
-
-System.Runtime.Remoting.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.2.0.5.0.Nullness.Generated.xml
-dir
-
-System.2.0.5.0.Contracts.xml
-dir
-
-Microsoft.JScript.xml
-dir
-
-System.Security.2.0.0.0.Nullness.Generated.xml
-dir
-
-Microsoft.CSharp.xml
-dir
-
-System.Transactions.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Xml.Linq.3.5.0.0.Contracts.xml
-dir
-
-System.Design.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Data.2.0.0.0.Contracts.xml
-dir
-
-System.Data.4.0.0.0.Contracts.xml
-dir
-
-System.2.0.0.0.Pure.xml
-dir
-
-System.Data.OracleClient.4.0.0.0.Nullness.Generated.xml
-dir
-
-Microsoft.JScript.10.0.0.0.Nullness.Generated.xml
-dir
-
-System.Configuration.xml
-dir
-
-System.Data.DataSetExtensions.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Windows.Forms.2.0.0.0.Contracts.xml
-dir
-
-System.Design.xml
-dir
-
-System.Windows.Forms.4.0.0.0.Contracts.xml
-dir
-
-System.Configuration.Install.xml
-dir
-
-System.Data.2.0.0.0.Pure.xml
-dir
-
-System.Runtime.Serialization.Formatters.Soap.2.0.0.0.Contracts.xml
-dir
-
-System.Xml.I18n.xml
-dir
-
-System.EnterpriseServices.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Runtime.Serialization.Formatters.Soap.4.0.0.0.Contracts.xml
-dir
-
-System.Xml.Linq.I18n.xml
-dir
-
-mscorlib.2.0.0.0.Contracts.xml
-dir
-
-mscorlib.4.0.0.0.Contracts.xml
-dir
-
-System.Drawing.2.0.0.0.Contracts.xml
-dir
-
-mscorlib.2.0.5.0.Contracts.xml
-dir
-
-System.Windows.Forms.4.0.0.0.Pure.xml
-dir
-
-System.Drawing.4.0.0.0.Contracts.xml
-dir
-
-System.Core.2.0.5.0.Nullness.Generated.xml
-dir
-
-Microsoft.Build.Tasks.v4.0.xml
-dir
-
-System.Drawing.Design.2.0.0.0.Nullness.Generated.xml
-dir
-
-mscorlib.4.0.0.0.Pure.xml
-dir
-
-System.Configuration.2.0.0.0.Contracts.xml
-dir
-
-System.Xaml.xml
-dir
-
-System.Configuration.4.0.0.0.Contracts.xml
-dir
-
-System.Configuration.Install.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Runtime.Remoting.xml
-dir
-
-System.Management.4.0.0.0.Nullness.Generated.xml
-dir
-
-Microsoft.Build.Framework.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Windows.Forms.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Security.2.0.0.0.Pure.xml
-dir
-
-System.Configuration.4.0.0.0.Pure.xml
-dir
-
-SMDiagnostics.3.0.0.0.Nullness.Generated.xml
-dir
-
-System.Runtime.Serialization.Formatters.Soap.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Numerics.4.0.0.0.Nullness.Generated.xml
-dir
-
-mscorlib.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Core.4.0.0.0.Contracts.xml
-dir
-
-System.DirectoryServices.Protocols.2.0.0.0.Nullness.Generated.xml
-dir
-
-Microsoft.VisualBasic.2.0.5.0.Nullness.Generated.xml
-dir
-
-System.Core.2.0.5.0.Contracts.xml
-dir
-
-System.Xml.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.ServiceProcess.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Web.Services.4.0.0.0.Nullness.Generated.xml
-dir
-
-Microsoft.CSharp.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Xml.Linq.4.0.0.0.Contracts.xml
-dir
-
-Microsoft.VisualBasic.10.0.0.0.Nullness.Generated.xml
-dir
-
-System.Configuration.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Xml.Linq.2.0.5.0.Contracts.xml
-dir
-
-mscorlib.2.0.5.0.Pure.xml
-dir
-
-System.Runtime.Remoting.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Xml.Linq.3.5.0.0.Nullness.Generated.xml
-dir
-
-System.Security.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Transactions.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Design.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Web.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Data.DataSetExtensions.3.5.0.0.Nullness.Generated.xml
-dir
-
-System.Data.DataSetExtensions.xml
-dir
-
-System.Web.ApplicationServices.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Nullness.Manual.xml
-dir
-
-System.Web.ApplicationServices.xml
-dir
-
-System.Windows.Forms.2.0.0.0.Pure.xml
-dir
-
-Microsoft.VisualBasic.8.0.0.0.Nullness.Generated.xml
-dir
-
-Microsoft.VisualC.xml
-dir
-
-System.Runtime.Serialization.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.2.0.0.0.Nullness.Generated.xml
-dir
-
-mscorlib.ValueFlow.xml
-dir
-
-System.Web.I18n.xml
-dir
-
-mscorlib.2.0.0.0.Pure.xml
-dir
-
-System.Xaml.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Drawing.Design.4.0.0.0.Nullness.Generated.xml
-dir
-
-Microsoft.VisualBasic.10.0.0.0.Contracts.xml
-dir
-
-Microsoft.VisualBasic.2.0.5.0.Pure.xml
-dir
-
-System.Xml.Linq.2.0.5.0.Nullness.Generated.xml
-dir
-
-System.xml
-dir
-
-System.Data.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Xml.Linq.xml
-dir
-
-System.Drawing.Design.xml
-dir
-
-System.Configuration.Install.2.0.0.0.Contracts.xml
-dir
-
-System.Web.2.0.0.0.Contracts.xml
-dir
-
-System.Xml.4.0.0.0.Pure.xml
-dir
-
-System.Configuration.Install.4.0.0.0.Contracts.xml
-dir
-
-System.Configuration.Install.4.0.0.0.Nullness.Generated.xml
-dir
-
-mscorlib.2.0.5.0.Interfaces.Nullness.Generated.xml
-dir
-
-System.Transactions.xml
-dir
-
-System.Web.4.0.0.0.Contracts.xml
-dir
-
-System.Xml.Linq.4.0.0.0.Pure.xml
-dir
-
-System.Deployment.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Data.xml
-dir
-
-System.Windows.Forms.4.0.0.0.Nullness.Generated.xml
-dir
-
-Microsoft.Build.Framework.3.5.0.0.Nullness.Generated.xml
-dir
-
-System.Configuration.2.0.0.0.Pure.xml
-dir
-
-System.I18n.xml
-dir
-
-System.Data.SqlXml.2.0.0.0.Nullness.Generated.xml
-dir
-
-mscorlib.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Web.Services.Attributes.xml
-dir
-
-System.Runtime.Serialization.Formatters.Soap.xml
-dir
-
-System.Numerics.xml
-dir
-
-System.DirectoryServices.Protocols.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Data.I18n.xml
-dir
-
-System.DirectoryServices.Protocols.xml
-dir
-
-System.Xml.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.DirectoryServices.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Configuration.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Web.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Runtime.DurableInstancing.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Xml.2.0.5.0.Pure.xml
-dir
-
-Microsoft.Build.Utilities.v4.0.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Xml.Linq.2.0.5.0.Pure.xml
-dir
-
-System.Numerics.2.0.5.0.Nullness.Generated.xml
-dir
-
-System.Runtime.Serialization.Attributes.xml
-dir
-
-Microsoft.VisualBasic.2.0.5.0.Contracts.xml
-dir
-
-Microsoft.VisualBasic.8.0.0.0.Contracts.xml
-dir
-
-System.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Core.4.0.0.0.Pure.xml
-dir
-
-Microsoft.CSharp.2.0.5.0.Nullness.Generated.xml
-dir
-
-System.Xml.xml
-dir
-
-System.Drawing.4.0.0.0.Pure.xml
-dir
-
-System.Data.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Xml.2.0.0.0.Pure.xml
-dir
-
-System.Deployment.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Data.OracleClient.xml
-dir
-
-System.Xml.Linq.3.5.0.0.Pure.xml
-dir
-
-System.Runtime.Caching.xml
-dir
-
-Microsoft.Build.Utilities.v4.0.xml
-dir
-
-System.Web.RegularExpressions.xml
-dir
-
-System.Data.SqlXml.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Core.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Web.4.0.0.0.Pure.xml
-dir
-
-System.EnterpriseServices.xml
-dir
-
-System.Drawing.2.0.0.0.Nullness.Generated.xml
-dir
-
-Microsoft.Build.Tasks.v4.0.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Xml.Attributes.xml
-dir
-
-Microsoft.VisualBasic.xml
-dir
-
-System.Runtime.Serialization.3.0.0.0.Nullness.Generated.xml
-dir
-
-System.Runtime.Serialization.2.0.5.0.Nullness.Generated.xml
-dir
-
-System.Windows.Forms.I18n.xml
-dir
-
-System.ServiceProcess.xml
-dir
-
-System.Web.Services.xml
-dir
-
-Microsoft.VisualBasic.8.0.0.0.Pure.xml
-dir
-
-System.Core.2.0.5.0.Pure.xml
-dir
-
-System.Web.Attributes.xml
-dir
-
-System.DirectoryServices.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Data.OracleClient.2.0.0.0.Nullness.Generated.xml
-dir
-
-mscorlib.I18n.xml
-dir
-
-System.Core.Nullness.Manual.xml
-dir
-
-System.4.0.0.0.Pure.xml
-dir
-
-System.Security.xml
-dir
-
-System.Runtime.Caching.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Management.xml
-dir
-
-Microsoft.Build.Framework.xml
-dir
-
-System.EnterpriseServices.2.0.0.0.Nullness.Generated.xml
-dir
-
-System.Web.xml
-dir
-
-System.Dynamic.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Data.4.0.0.0.Pure.xml
-dir
-
-SMDiagnostics.4.0.0.0.Nullness.Generated.xml
-dir
-
-System.Deployment.xml
-dir
-
-mscorlib.2.0.5.0.Nullness.Generated.xml
-dir
-
-System.Data.SqlXml.xml
-dir
-
-System.Core.xml
-dir
-
-System.Data.DataSetExtensions.I18n.xml
-dir
-
-System.Windows.Forms.Manual.xml
-dir
-

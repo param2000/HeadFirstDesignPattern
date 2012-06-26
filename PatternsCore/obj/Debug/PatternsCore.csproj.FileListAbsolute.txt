@@ -1,0 +1,4 @@
+C:\GithubRepositories\DesignPatterns\PatternsCore\bin\Debug\PatternsCore.dll
+C:\GithubRepositories\DesignPatterns\PatternsCore\bin\Debug\PatternsCore.pdb
+C:\GithubRepositories\DesignPatterns\PatternsCore\obj\Debug\PatternsCore.dll
+C:\GithubRepositories\DesignPatterns\PatternsCore\obj\Debug\PatternsCore.pdb

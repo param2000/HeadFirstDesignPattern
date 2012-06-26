@@ -1,6 +1,0 @@
-<Modules>
-  <Module PersistentId="26656836-0B18-43CA-84C6-93C97C9F8C1B" ModuleId="UnitTests" />
-  <Module PersistentId="FDAAB145-119C-451A-B798-DDC73289ACC6" ModuleId="HeadFirstPatternsCore" />
-  <Module PersistentId="B706890E-C3AF-4D75-8860-A786CCE22D47" ModuleId="TestProject1" />
-  <Module PersistentId="95775A81-9632-4DB8-8379-3868CE13FB46" ModuleId="DucksAtPlay" />
-</Modules>

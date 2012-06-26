@@ -1,1 +1,0 @@
-C:\Projects\HeadFirstDesignPattern\HeadFirstCore\obj\Debug\ResolveAssemblyReference.cache
