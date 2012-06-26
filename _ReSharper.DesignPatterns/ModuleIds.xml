@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="CC531762-691F-41FC-BBEF-BAC12599FF26" ModuleId="PatternAtWork" />
+  <Module PersistentId="9F1BB4F8-7DE4-49A2-9D35-E1517D95F533" ModuleId="Pattern.Tests" />
+  <Module PersistentId="516127DA-5FA4-44E5-B68F-E5BC7CA092BC" ModuleId="PatternsCore" />
+</Modules>

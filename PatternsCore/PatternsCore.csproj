@@ -33,7 +33,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Adapter\IDuck.cs" />
@@ -92,6 +91,7 @@
     <Compile Include="Proxy\ISubject.cs" />
     <Compile Include="Proxy\ProxySubject.cs" />
     <Compile Include="Proxy\RealSubject.cs" />
+    <Compile Include="Security\CheckUserPermission.cs" />
     <Compile Include="SimpleFactory\Implementations\SimplePizzaFactory.cs" />
     <Compile Include="SimpleFactory\Implementations\GreeekPizza.cs" />
     <Compile Include="SimpleFactory\Implementations\PepperoniPizza.cs" />

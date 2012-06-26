@@ -1,0 +1,9 @@
+C:\GithubRepositories\DesignPatterns\Pattern.Tests\obj\Debug\Pattern.Tests.csprojResolveAssemblyReference.cache
+C:\GithubRepositories\DesignPatterns\Pattern.Tests\bin\Debug\Pattern.Tests.dll
+C:\GithubRepositories\DesignPatterns\Pattern.Tests\bin\Debug\Pattern.Tests.pdb
+C:\GithubRepositories\DesignPatterns\Pattern.Tests\bin\Debug\PatternsCore.dll
+C:\GithubRepositories\DesignPatterns\Pattern.Tests\bin\Debug\Rhino.Mocks.dll
+C:\GithubRepositories\DesignPatterns\Pattern.Tests\bin\Debug\PatternsCore.pdb
+C:\GithubRepositories\DesignPatterns\Pattern.Tests\bin\Debug\Rhino.Mocks.xml
+C:\GithubRepositories\DesignPatterns\Pattern.Tests\obj\Debug\Pattern.Tests.dll
+C:\GithubRepositories\DesignPatterns\Pattern.Tests\obj\Debug\Pattern.Tests.pdb
