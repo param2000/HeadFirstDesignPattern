@@ -5,13 +5,9 @@ using Rhino.Mocks;
 
 namespace Pattern.Tests
 {
-
-
     [TestClass()]
     public class RhinoMocksAtPlay
     {
-
-
         [TestMethod()]
         public
         void TestMethod1()
